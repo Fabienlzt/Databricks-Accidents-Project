@@ -13,4 +13,4 @@ Ainsi que des précédents TP réalisé dans cette matière
 Je n'ai pas réussi à faire fonctionner les modèles en dehors du RandomForestClassifier mais sans la commande GridSearchcsv
 Je garderais donc ce modèle avec une précision de ~ 0.6 
 
-Lien du Endpoint:
+Lien du Endpoint: https://adb-7032563055566904.4.azuredatabricks.net/serving-endpoints/Endpoint/invocations
